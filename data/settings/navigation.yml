@@ -4,4 +4,4 @@ nav_items:
   - label: Sign Up
     path: 'http://app.jacobmjones.com/'
   - label: Blog
-    path: /blog
+    path: /news
